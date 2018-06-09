@@ -1,0 +1,8 @@
+{
+  "name": "vagabound",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/minterz/vagabound.git",
+  "author": "lbpage <lapsmores@gmail.com>",
+  "license": "MIT"
+}
